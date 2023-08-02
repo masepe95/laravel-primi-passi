@@ -19,6 +19,10 @@
 <body>
     <h1>Hello World!</h1>
     <span>Laravel first steps by {{$last_name}} - Class {{$class_number}}</span>
+    <br>
+    <br>
+    <br>
+    <a href="{{route('teachers')}}"> Class 100 Teachers List </a>
 
 </body>
 </body>
