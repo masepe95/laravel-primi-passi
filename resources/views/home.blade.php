@@ -18,6 +18,7 @@
 
 <body>
     <h1>Hello World!</h1>
+    <span>Laravel first steps by {{$last_name}} - Class {{$class_number}}</span>
 
 </body>
 </body>
